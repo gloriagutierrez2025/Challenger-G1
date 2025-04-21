@@ -7,7 +7,7 @@ Análizar la información entregada con el rendimiento de las tiendas de Juan, p
 
 **Antecedentes:**
 
-Ingresos Totales(-)
+Ingresos Totales
 
 Ingresos por Ciudad
 
